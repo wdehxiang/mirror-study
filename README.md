@@ -1,7 +1,10 @@
 # mirror-study
 主要用于个人学习笔记整理，有兴趣的同学可以多交流哈~~~
 
-### redis专栏
+## redis专栏
+
+* * *
+
 
 * [01.图文理解RDB和AOF两种持久化机制](https://www.cnblogs.com/mrmirror/p/13576342.html)
 * [02.RDB持久化配置与工作流程](https://www.cnblogs.com/mrmirror/p/13581109.html)
